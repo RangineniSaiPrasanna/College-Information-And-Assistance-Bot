@@ -1,11 +1,50 @@
-# College Enquiry Chatbot #
+# College Information And Assistance Chatbot #
+
+**Overview**
+
+This chatbot is designed to provide information and assistance related to RGUKT Ongole. It can answer queries from students, faculty, and visitors, offering quick access to various resources and information about the institution.
+
+**Features**
+
+**User Groups**:
+The chatbot categorizes users into:
+
+Students
+
+Faculty
+
+Visitors
+
+**Quick Navigation:**
+Users can select options by entering numbers corresponding to their queries.
+
+**Rich Responses:**
+The bot provides formatted responses with clickable links for easy access to resources.
+
+**Comprehensive Coverage:**
+Includes information on academics, administration, faculty details, examinations, placements, and more.
+
+**Usage**:
+
+Start the chatbot and interact by entering your queries.
+
+Follow the numbered options to navigate through the menu.
+
+For example:
+
+Enter 1 for student-related queries.
+
+Enter 1.1 for curricular information.
+
+Enter 1.1.1 for CSE-related resources.
 
 
 
-## ABSTRACT 
 
-<p align="justify">This project aims to develop a college enquiry Chabot that answers any queries post by students like college details, course-related questions, location of the college, fee structure etc. The College Enquiry Chatbot project is built using machine learning algorithms that analyse user’s queries and understand the user's message. This System is a web application that provides answers to the query. Any individual just has to query through the bot. The answers are appropriate to what the user queries. The User can query any college-related activities through the system. The user does not have to personally go to the college for enquiry. The System analyses the question and then answers to the user. The user can also give their suggestions through the suggestion box. The system replies using an effective Graphical User Interface which implies that if a real person is talking to the user.  </p>
+**Notes:**
 
+Ensure the database file (database.sqlite3) is accessible for the chatbot to store and retrieve conversation data.
 
+For deployment in a web application, integrate this script with a web framework like Flask or Django.
 
 
